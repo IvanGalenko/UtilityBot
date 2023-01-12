@@ -2,6 +2,6 @@
 {
     public class Session
     {
-        public string LanguageCode { get; set; }
+        public string OptionCode { get; set; }
     }
 }
